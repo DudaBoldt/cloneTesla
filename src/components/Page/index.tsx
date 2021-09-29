@@ -1,11 +1,7 @@
 import React from 'react';
-
 import { ModelsWrapper, ModelSection } from '../Model'
-
 import DefaultOverlayContent from '../DefaultOverlayContent';
-
 import { Container } from './styles';
-
 
 const Page: React.FC = () => {
 return (
